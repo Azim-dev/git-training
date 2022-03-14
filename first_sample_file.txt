@@ -1,1 +1,2 @@
-This is my first sample file. This is for git training purposes. 
+This is my first sample file. This is for git training purposes.
+I need to learn this fast as this is impacting my performance at internship.  
