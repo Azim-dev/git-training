@@ -1,1 +1,2 @@
+We have learned about revert, now moving onto commit. 
 This is my second training file
