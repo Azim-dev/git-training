@@ -1,1 +1,2 @@
 This is only at developing training stage
+Bug issue is resolved. 
